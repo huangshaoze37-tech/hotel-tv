@@ -1,5 +1,5 @@
 智能直播源聚合报告（云端自动更新）
-时间：2026/10/26 00:29:38
+时间：2026/10/27 01:32:21
 ========================================
 [拉取] iptv-org中文 | 218 频道 | https://iptv-org.github.io/iptv/languages/zho.m3u
 [拉取] 海外中文大包 | 340 频道 | https://m3u.ibert.me/o_s_cn.m3u
@@ -8,8 +8,8 @@
 [拉取] 大陆补充 | 103 频道 | https://m3u.ibert.me/cn_c.m3u
 [拉取失败] 香港专源iill | fetch failed
 [解析] 上游条目 827 条 → 剔除 IPv6 28 条、黑名单域名 0 条、.ctv推广流 75 条、关键词 0 条 → 合并为 499 个频道名
-[探测] 可用频道 380 个（其中云端探测超时/待定 240 个，香港强制保留 4 个），失效频道 119 个，耗时 71.4s
-[失效示例] CCTV-1 HD (1080p)、CCTV-16 HD (1080p)、CCTV-4K HD (1080p)、Berita RTM [Geo-blocked]、Beijing Satellite TV HD (1080p)、CCTV-4 America (1080p)、8TV、CCTV-13 HD (1080p)、Fujian Comprehensive Channel、Celestial Movies (576i)、Chuzhou News Channel (1080p)、Chuzhou Public Channel (400p)、Chuzhou Science & Education Channel (400p)、Chuxiong News Channel [Not 24/7]、CreaTV Channel 15 (720p)、CTS News [Geo-blocked]、DaAi 1 (720p)、DaAi 2 (1080p)、CND Film Middle School Channel、EBC Financial News (1080p) [Not 24/7] 等119 个
-[输出] 已生成 /home/runner/work/hotel-tv/hotel-tv/live_all.m3u（380 个可用频道）
+[探测] 可用频道 371 个（其中云端探测超时/待定 211 个，香港强制保留 6 个），失效频道 128 个，耗时 64.0s
+[失效示例] CCTV-1 HD (1080p)、CCTV-16 HD (1080p)、CCTV-4K HD (1080p)、Berita RTM [Geo-blocked]、Beijing Satellite TV HD (1080p)、CCTV-4 America (1080p)、CCTV-13 HD (1080p)、8TV、Fujian Comprehensive Channel、Celestial Movies (576i)、Chuxiong News Channel [Not 24/7]、Chuzhou News Channel (1080p)、Chuzhou Public Channel (400p)、Chuzhou Science & Education Channel (400p)、CreaTV Channel 15 (720p)、CTS News [Geo-blocked]、DaAi 2 (1080p)、DaAi 1 (720p)、CND Film Middle School Channel、EBC Financial News (1080p) [Not 24/7] 等128 个
+[输出] 已生成 /home/runner/work/hotel-tv/hotel-tv/live_all.m3u（371 个可用频道）
 ========================================
-汇总：聚合 380 个可用频道（原 827 条），耗时 71.4s
+汇总：聚合 371 个可用频道（原 827 条），耗时 64.0s
